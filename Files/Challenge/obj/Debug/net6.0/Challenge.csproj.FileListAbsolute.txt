@@ -1,0 +1,14 @@
+D:\Documents\24B Baze\Start\Files\Challenge\obj\Debug\net6.0\Challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\24B Baze\Start\Files\Challenge\obj\Debug\net6.0\Challenge.AssemblyInfoInputs.cache
+D:\Documents\24B Baze\Start\Files\Challenge\obj\Debug\net6.0\Challenge.AssemblyInfo.cs
+D:\Documents\24B Baze\Start\Files\Challenge\obj\Debug\net6.0\Challenge.csproj.CoreCompileInputs.cache
+D:\Documents\24B Baze\Start\Files\Challenge\bin\Debug\net6.0\Challenge.exe
+D:\Documents\24B Baze\Start\Files\Challenge\bin\Debug\net6.0\Challenge.deps.json
+D:\Documents\24B Baze\Start\Files\Challenge\bin\Debug\net6.0\Challenge.runtimeconfig.json
+D:\Documents\24B Baze\Start\Files\Challenge\bin\Debug\net6.0\Challenge.dll
+D:\Documents\24B Baze\Start\Files\Challenge\bin\Debug\net6.0\Challenge.pdb
+D:\Documents\24B Baze\Start\Files\Challenge\obj\Debug\net6.0\Challenge.dll
+D:\Documents\24B Baze\Start\Files\Challenge\obj\Debug\net6.0\refint\Challenge.dll
+D:\Documents\24B Baze\Start\Files\Challenge\obj\Debug\net6.0\Challenge.pdb
+D:\Documents\24B Baze\Start\Files\Challenge\obj\Debug\net6.0\Challenge.genruntimeconfig.cache
+D:\Documents\24B Baze\Start\Files\Challenge\obj\Debug\net6.0\ref\Challenge.dll
